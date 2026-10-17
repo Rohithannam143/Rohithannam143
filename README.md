@@ -4,6 +4,7 @@
 <img src="./Rohith Annam_ Neon Developer Workstation.png" width="100%" alt="Rohith Annam — Developer Portfolio" />
 
 <br/>
+</div>
 <div align="center">
 
 # 👋 Hey, I'm Rohith Annam!
