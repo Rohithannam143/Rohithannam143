@@ -89,12 +89,12 @@ An AI-assisted healthcare web application concept for symptom exploration and he
 
 ## 🎯 2026 Goals
 
-- [ - ] Improve programming and problem-solving skills.
-- [ - ] Build practical AI-powered applications.
-- [ - ] Develop full-stack web applications.
-- [ - ] Strengthen Linux, Docker, and DevOps skills.
-- [ - ] Learn cloud deployment and automation.
-- [ - ] Build projects that solve real-world problems.
+- [ ] Improve programming and problem-solving skills.
+- [ ] Build practical AI-powered applications.
+- [ ] Develop full-stack web applications.
+- [ ] Strengthen Linux, Docker, and DevOps skills.
+- [ ] Learn cloud deployment and automation.
+- [ ] Build projects that solve real-world problems.
 
 ---
 
