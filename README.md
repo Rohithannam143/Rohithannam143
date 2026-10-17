@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Rohith Annam - Programmer, AI, Web Development and DevOps">
+  <img src="./Rohith Annam_ Neon Developer Workstation.png" width="100%" alt="Rohith Annam - Programmer, AI, Web Development and DevOps">
 </div>
 
 <br/>
