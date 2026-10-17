@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Rohithannam143/Rohithannam143/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
+</div>
+<div align="center">
   <img src="./Rohith Annam_ Neon Developer Workstation.png" width="100%" alt="Rohith Annam - Programmer, AI, Web Development and DevOps">
 </div>
 
