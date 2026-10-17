@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./github-banner.png" width="100%" alt="Rohith Annam - Programmer, AI, Web Development and DevOps">
+</div>
+
+<br/>
+<div align="center">
 
 # 👋 Hey, I'm Rohith Annam!
 
