@@ -102,7 +102,7 @@ An AI-assisted healthcare web application concept for symptom exploration and he
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [@Rohithannam143](https://github.com/Rohithannam143)
-- LinkedIN  : [@rohith-annam-118].(https://www.linkedin.com/in/rohith-annam-118n/)
+- LinkedIN  : [@rohith-annam-118](https://www.linkedin.com/in/rohith-annam-118n/)
 
 ---
 
